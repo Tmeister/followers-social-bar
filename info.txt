@@ -1,0 +1,38 @@
+== Description ==
+The Followers Social Bar section allows you to show the followers/subscribers from your social networks.
+
+You can use it in the content area or in the morefoot area, has 4 themes and 4 icons sets for choose from.
+
+Besides has a internal cache system to maximize the response time, in this way the requests to the APIs are made only 1 time per hour.
+
+=== Social Networks and services === 
+
+* Facebook
+* Twitter
+* FeedBurner
+* Youtube
+* Vimeo
+* Digg
+
+
+[Follow me at Twitter](http://twitter.com/tmeister "Tmeister")  for news of next versions and new releases.
+
+Also you can see my other sections
+
+* [Parallax Slider](http://www.pagelines.com/store/sections/parallax-slider/ "Parallax Slider")
+* [Social Surf Menu](http://www.pagelines.com/store/sections/social-surf-menu/ "Social Surf Menu")
+* [Infinite Carousel](http://www.pagelines.com/store/sections/infinite-carousel/ "Infinite Carousel")
+* [Menu Always on Top](http://www.pagelines.com/store/sections/always-on-top-menu/ "Menu Always on Top")
+
+== Features ==
+
+* 4 Layout Themes
+* 4 Icons Sets
+* Alignment option (Left, Center, Right)
+* Cache System
+
+
+== Changelog ==
+
+= 1.0 = ( JAN 29, 2012 )
+* Public Release

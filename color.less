@@ -1,0 +1,27 @@
+/*
+ * PageLines Color.less
+ * 
+ * Color.less is a solution for dealing with dynamic colors in PageLines. 
+ * use this file to style your section with colors that also adapt to users' color control settings
+ * 
+ * For more information on Less, check out: http://leafo.net/lessphp/docs/
+ * 
+ * Default variables added by PageLines
+ * -------------------------------------
+ *  'pl-base'		- The background color
+ *	'pl-text'		- Primary text color
+ *	'pl-link'		- Primary link color
+ *	'pl-header' 	- Primary text header color
+ *	'pl-footer' 	- Primary footer text color
+ * 	'invert-dark'	- Contrast variable, inverts when dark
+ *	'invert-light'	- Contrast variable, inverts when light
+ */
+
+.pullquote{
+	background: darken( @pl-base, @invert-dark );
+	color: @pl-text;
+}
+	.thecitation, .thecitation a{
+		color: lighten(@pl-text, 30);
+	}
+	

@@ -1,0 +1,395 @@
+.social_followers {
+	font-family: "Helvetica", "Arial", sans-serif;
+	font-size: 16px;
+	margin: 20px 0;
+}
+
+.social_followers ul {
+	list-style: none;
+	margin: 10px 0 0 0;
+	padding: 0;
+}
+
+.social_followers ul.center {
+	text-align: center;
+}
+
+.social_followers ul.left {
+	text-align: left;
+}
+
+.social_followers ul.right {
+	text-align: right;
+}
+
+.social_followers ul li span {
+	display: block;
+}
+
+.social_followers ul li .sf_icon,.social_followers ul li .sf_icon a {
+	display: block;
+	height: 36px;
+	width: 34px;
+}
+
+.social_followers ul li .sf_count {
+	color: #555555;
+}
+
+.social_followers ul li .sf_label {
+	color: #afafaf;
+}
+
+/* Normal Icons images */
+.social_followers ul.normal_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/normal_icons/facebook.png) no-repeat;
+}
+
+.social_followers ul.normal_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/normal_icons/twitter.png) no-repeat;
+}
+
+.social_followers ul.normal_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/normal_icons/vimeo.png) no-repeat;
+}
+
+.social_followers ul.normal_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/normal_icons/youtube.png) no-repeat;
+}
+
+.social_followers ul.normal_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/normal_icons/feedburner.png) no-repeat;
+}
+
+.social_followers ul.normal_icons li.sf_digg_network span.sf_icon {
+	background: url(images/normal_icons/digg.png) no-repeat;
+}
+
+/* Elegant Icons images */
+.social_followers ul.elegant_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/elegant_icons/facebook.png) no-repeat;
+}
+
+.social_followers ul.elegant_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/elegant_icons/twitter.png) no-repeat;
+}
+
+.social_followers ul.elegant_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/elegant_icons/vimeo.png) no-repeat;
+}
+
+.social_followers ul.elegant_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/elegant_icons/youtube.png) no-repeat;
+}
+
+.social_followers ul.elegant_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/elegant_icons/feedburner.png) no-repeat;
+}
+
+.social_followers ul.elegant_icons li.sf_digg_network span.sf_icon {
+	background: url(images/elegant_icons/digg.png) no-repeat;
+}
+
+/* Circle Icons images */
+.social_followers ul.circle_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/circle_icons/facebook.png) no-repeat;
+}
+
+.social_followers ul.circle_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/circle_icons/twitter.png) no-repeat;
+}
+
+.social_followers ul.circle_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/circle_icons/vimeo.png) no-repeat;
+}
+
+.social_followers ul.circle_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/circle_icons/youtube.png) no-repeat;
+}
+
+.social_followers ul.circle_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/circle_icons/feedburner.png) no-repeat;
+}
+
+.social_followers ul.circle_icons li.sf_digg_network span.sf_icon {
+	background: url(images/circle_icons/digg.png) no-repeat;
+}
+
+/* Cloud Icons images */
+.social_followers ul.cloud_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/cloud_icons/facebook.png) no-repeat;
+}
+
+.social_followers ul.cloud_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/cloud_icons/twitter.png) no-repeat;
+}
+
+.social_followers ul.cloud_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/cloud_icons/vimeo.png) no-repeat;
+}
+
+.social_followers ul.cloud_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/cloud_icons/youtube.png) no-repeat;
+}
+
+.social_followers ul.cloud_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/cloud_icons/feedburner.png) no-repeat;
+}
+
+.social_followers ul.cloud_icons li.sf_digg_network span.sf_icon {
+	background: url(images/cloud_icons/digg.png) no-repeat;
+}
+
+/* Small Normal Text Theme */
+.social_followers.sf_small_text ul li.sf_facebook_network span.sf_icon {
+	background: url(images/normal_icons/small/facebook.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul li.sf_twitter_network span.sf_icon {
+	background: url(images/normal_icons/small/twitter.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul li.sf_vimeo_network span.sf_icon {
+	background: url(images/normal_icons/small/vimeo.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul li.sf_youtube_network span.sf_icon {
+	background: url(images/normal_icons/small/youtube.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul li.sf_forrst_network span.sf_icon {
+	background: url(images/normal_icons/small/dribbble.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul li.sf_feedburner_network span.sf_icon {
+	background: url(images/normal_icons/small/feedburner.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul li.sf_digg_network span.sf_icon {
+	background: url(images/normal_icons/small/digg.png) no-repeat;
+}
+
+/* Small Circle Text Theme */
+.social_followers.sf_small_text ul.circle_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/circle_icons/small/facebook.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.circle_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/circle_icons/small/twitter.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.circle_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/circle_icons/small/vimeo.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.circle_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/circle_icons/small/youtube.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.circle_icons li.sf_forrst_network span.sf_icon {
+	background: url(images/circle_icons/small/dribbble.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.circle_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/circle_icons/small/feedburner.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.circle_icons li.sf_digg_network span.sf_icon {
+	background: url(images/circle_icons/small/digg.png) no-repeat;
+}
+
+/* Small Elegant Text Theme */
+.social_followers.sf_small_text ul.elegant_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/elegant_icons/small/facebook.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/elegant_icons/small/twitter.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/elegant_icons/small/vimeo.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/elegant_icons/small/youtube.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_forrst_network span.sf_icon {
+	background: url(images/elegant_icons/small/dribbble.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/elegant_icons/small/feedburner.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_digg_network span.sf_icon {
+	background: url(images/elegant_icons/small/digg.png) no-repeat;
+}
+
+/* Small Elegant Text Theme */
+.social_followers.sf_small_text ul.cloud_icons li.sf_facebook_network span.sf_icon {
+	background: url(images/cloud_icons/small/facebook.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.cloud_icons li.sf_twitter_network span.sf_icon {
+	background: url(images/cloud_icons/small/twitter.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.cloud_icons li.sf_vimeo_network span.sf_icon {
+	background: url(images/cloud_icons/small/vimeo.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.cloud_icons li.sf_youtube_network span.sf_icon {
+	background: url(images/cloud_icons/small/youtube.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.cloud_icons li.sf_forrst_network span.sf_icon {
+	background: url(images/cloud_icons/small/dribbble.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.cloud_icons li.sf_feedburner_network span.sf_icon {
+	background: url(images/cloud_icons/small/feedburner.png) no-repeat;
+}
+
+.social_followers.sf_small_text ul.elegant_icons li.sf_digg_network span.sf_icon {
+	background: url(images/elegant_icons/small/digg.png) no-repeat;
+}
+
+/* Cloud Theme */
+.social_followers.sf_cloud ul li {
+	display: inline-block;
+	margin: 5px 25px 5px 0;
+}
+
+.social_followers.sf_cloud ul li span.sf_count {
+	background: url(images/cloud.png) no-repeat;
+	color: #555555;
+	font-size: 12px;
+	font-weight: bold;
+	height: 34px;
+	margin-bottom: 5px;
+	padding-top: 8px;
+	text-align: center;
+	width: 53px;
+}
+
+.social_followers.sf_cloud ul li span.sf_label {
+	margin-left: -16px;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	width: 65px;
+}
+
+/* Bubble */
+.social_followers.sf_bubble ul li {
+	display: inline-block;
+	margin: 15px 30px 0 0;
+	position: relative;
+}
+
+.social_followers.sf_bubble ul li span.sf_count {
+	background: #82b0e8; /* Old browsers */
+	background: -webkit-linear-gradient(top, #82b0e8 0%, #618ee8 100%);
+	background: -moz-linear-gradient(top, #82b0e8 0%, #618ee8 100%);
+	background: -o-linear-gradient(top, #82b0e8 0%, #618ee8 100%);
+	background: -ms-linear-gradient(top, #82b0e8 0%, #618ee8 100%);
+	background: linear-gradient(top, #82b0e8 0%, #618ee8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#82b0e8', endColorstr='#618ee8',GradientType=0 ); /* IE6-9 */
+	border: 1px solid #618ee8;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 12px;
+	padding: 4px;
+	position: absolute;
+	right: 5px;
+	text-align: center;
+	text-shadow: 1px 1px 1px #4970bd;
+	top: -15px;
+	
+}
+
+.social_followers.sf_bubble ul li span.sf_label {
+	font-size: 11px;
+	font-weight: bold;
+	margin-left: -17px;
+	text-align: center;
+	width: 65px;
+}
+
+/* Big Text */
+.social_followers.sf_big_text ul li {
+	display: inline-block;
+	margin-right: 20px;
+	vertical-align: middle;
+}
+
+.social_followers.sf_big_text ul li span.sf_icon {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.social_followers.sf_big_text ul li div.sf_text {
+	display: inline-block;
+	margin-left: 10px;
+	vertical-align: middle;
+}
+
+.social_followers.sf_big_text ul li span.sf_count {
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 21px;
+	text-align: center;
+}
+
+.social_followers.sf_big_text ul li span.sf_label {
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 11px;
+	text-align: center;
+}
+
+.social_followers.sf_big_text ul li {
+	display: inline-block;
+	margin-right: 20px;
+	vertical-align: middle;
+}
+
+/* Small Text */
+.social_followers.sf_small_text ul li {
+	display: inline-block;
+	margin-right: 15px;
+	vertical-align: middle;
+}
+
+.social_followers.sf_small_text ul li span.sf_icon {
+	display: inline-block;
+	height: 28px;
+	vertical-align: middle;
+	width: 28px;
+}
+
+.social_followers.sf_small_text ul li div.sf_text {
+	display: inline-block;
+	margin-left: 5px;
+	vertical-align: middle;
+}
+
+.social_followers.sf_small_text ul li span.sf_count {
+	font-size: 14px;
+	line-height: 14px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.social_followers.sf_small_text ul li span.sf_label {
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 11px;
+	text-align: left;
+}
