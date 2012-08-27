@@ -38,7 +38,7 @@ class TmFollowersBar extends PageLinesSection {
 			}
 		</style>
 		<![endif]-->
-	<?
+	<?php
 	} 
 	function section_template( $clone_id = null ) { 
 		global $post, $pagelines_ID;
